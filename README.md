@@ -16,7 +16,7 @@ For example, deploying a token follows the format:
 
 ### UTXO Management
 
-According to the protocol, UTXOs smaller than 0.1 DOGE are invalid transactions. Therefore, no dust will be created within this protocol. Since the input address is used as the accounting unit, the collection of UTXOs becomes irrelevant, so it won't make dogecoin's data expand
+According to the protocol, UTXOs smaller than 0.1 DOGE are invalid transactions. Therefore, no dust will be created within this protocol. Since the input address is used as the accounting unit, the collection of UTXOs becomes irrelevant, so it won't make dogecoin's utxo data expand
 
 ## Parameter Rules and Descriptions
 
